@@ -2,7 +2,7 @@
 Arquivos de legendas para filmes no formato SRT são arquivos de texto compostos por uma série de pares numerados a
 partir de 1 indicando um intervalo de tempo (dado por dois indicadores compostos por horas, minutos, segundos e
 milissegundos) e um conteúdo que deve ser exibido durante este tempo. A seguir, observe um exemplo de um trecho de
-um arquivo de legendas: arquivo: legendas.txt
+um arquivo de legendas: nome do arquivo: legendas.txt
 
 Escreva um programa que mostre ao usuário um menu no qual ele pode escolher entre quatro possíveis operações:
 1) informar o nome do arquivo de legendas com estrutura como a descrita sobre o qual as operações selecionadas a
